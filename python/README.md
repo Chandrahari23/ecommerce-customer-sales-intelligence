@@ -204,10 +204,4 @@ ecommerce-customer-sales-python-analysis/
 - Predictive churn analysis
 - Automated reporting
 
-## Author
 
-**Chandrahari V**  
-Aspiring Data Analyst | SQL | Python | Power BI | Tableau | Business Analytics
-
-GitHub: https://github.com/Chandrahari23  
-LinkedIn: https://www.linkedin.com/in/chandrahari23
