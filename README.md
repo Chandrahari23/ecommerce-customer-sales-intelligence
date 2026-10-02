@@ -178,10 +178,6 @@ The repository also includes `DAX_Notes.md` for future reference.
 - Monitor product-level profit, not revenue alone.
 - Maintain the Power BI dashboard as a recurring management-reporting tool.
 
-## Important Correction
-
-An earlier project visual stated that the top 20% of customers contributed approximately 70% of revenue. Recalculation using the final 3,921 purchasing-customer dataset gives approximately 57.12%. The final project uses the recalculated figure.
-
 ## Repository Structure
 
 ```text
@@ -240,11 +236,4 @@ ecommerce-customer-sales-intelligence/
 
 The final project demonstrates the ability to take structured business data through the complete analytics lifecycle: understand the business problem, work with relational datasets, analyze the data using SQL and Python, build an interactive Power BI dashboard, identify meaningful patterns and translate them into practical business recommendations.
 
-## Author
 
-Harish
-
-Aspiring Data Analyst
-
-GitHub: https://github.com/Chandrahari23
-LinkedIn: https://www.linkedin.com/in/chandrahari23
